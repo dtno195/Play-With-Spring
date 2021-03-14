@@ -1,2 +1,4 @@
-package com.sd.controller;public class StudentController {
+package com.sd.controller;
+
+public class StudentController {
 }
